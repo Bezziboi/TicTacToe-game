@@ -8,7 +8,7 @@
     cursor: pointer;
 }
 #gameContainer {
-    font-family: "Permanent Marker", cursive;
+    font-family: "Permanent Marker";
     text-align: center;
 }
 #cellContainer {
@@ -18,7 +18,7 @@
     margin: auto;
 }
 #restartBtn {
-    font-family: "Permanent Marker", cursive;
+    font-family: "Permanent Marker";
     border: 2px solid;
     box-shadow: 0 0 0 2px;
     font-weight: bold;
