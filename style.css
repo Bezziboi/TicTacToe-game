@@ -8,7 +8,7 @@
     cursor: pointer;
 }
 #gameContainer {
-    font-family: 'Edu VIC WA NT Beginner', "Permanent Marker";
+    font-family: "Permanent Marker", 'Edu VIC WA NT Beginner';
     text-align: center;
 }
 #cellContainer {
@@ -18,7 +18,7 @@
     margin: auto;
 }
 #restartBtn {
-    font-family: 'Edu VIC WA NT Beginner', "Permanent Marker";
+    font-family: "Permanent Marker", 'Edu VIC WA NT Beginner';
     border: 2px solid;
     box-shadow: 0 0 0 2px;
     font-weight: bold;
