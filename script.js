@@ -1,6 +1,6 @@
 const cells = document.querySelectorAll(".cell");
 const statusText = document.getElementById("statusText");
-const restart = document.getElementById("restartBtn");
+const restartBtn = document.getElementById("restartBtn");
 const winConditions = [
     [0, 1, 2],
     [3, 4, 5],
